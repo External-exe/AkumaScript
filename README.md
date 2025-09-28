@@ -1,4 +1,4 @@
-# AkumaMenu README
+# AkumaMenu
 
 Welcome to **AkumaMenu**, a customizable Roblox cheat menu inspired by anime aesthetics. This menu provides various features like aimbot, ESP, movement hacks, emotes, and more.
 
